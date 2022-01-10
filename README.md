@@ -1,5 +1,5 @@
 # htmlMinifier
-I hope you enjoyed this tutorial!
+Hope you enjoyed this tutorial
 
 --- USEFUL LINKS ---
 
